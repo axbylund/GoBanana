@@ -7,6 +7,7 @@ Can you beat a monkey?
 - Plain Android Studio
 - I heard that the monkey died in the end
 - MP3's by Larra
+- https://twitter.com/T_iGir/status/849833739907514368
 
 # Video
 
